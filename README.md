@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/chicacode/teddies-vs-monsters-frontend">
+  <a href="https://github.com/TeddiesvsMonsters/TeddiesVsMonsters">
     <img src="assets/images/logo.png" alt="Logo" width="auto" height="40">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     Teddies vs Monsters is an e-commerce website developed with NextJS, Stripe and Strapi. 
     <br />
-    <a href="https://github.com/chicacode/teddies-vs-monsters-frontend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TeddiesvsMonsters/TeddiesVsMonsters"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://teddies-vs-monsters-frontend.vercel.app/">View Page</a>
     ·
-    <a href="https://github.com/chicacode/teddies-vs-monsters-frontend/issues">Report Bug</a>
+    <a href="https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/issues">Report Bug</a>
     ·
-    <a href="https://github.com/chicacode/teddies-vs-monsters-frontend/issues">Request Feature</a>
+    <a href="https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/issues">Request Feature</a>
   </p>
 </div>
 
@@ -127,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/chicacode/teddies-vs-monsters-frontend.git
+   git clone https://github.com/TeddiesvsMonsters/TeddiesVsMonsters.git
    ```
 2. Install NPM packages
    ```sh
@@ -149,9 +149,9 @@ To get a local copy up and running follow these simple example steps.
 - [x] Admin Content Management System
 - [x] Store with secure payment
     - [x] Stripe 
-    - [] Shopify
+    - [x] Shopify
 
-See the [open issues](https://github.com/chicacode/teddies-vs-monsters-frontend/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,7 +193,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/chicacode/teddies-vs-monsters-frontend](https://github.com/chicacode/teddies-vs-monsters-frontend)
+Project Link: [[https://github.com/TeddiesvsMonsters/TeddiesVsMonsters](https://github.com/TeddiesvsMonsters/TeddiesVsMonsters)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,16 +212,16 @@ Project Link: [https://github.com/chicacode/teddies-vs-monsters-frontend](https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/chicacode/teddies-vs-monsters-frontend.svg?style=for-the-badge
-[contributors-url]: https://github.com/chicacode/teddies-vs-monsters-frontend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/chicacode/teddies-vs-monsters-frontend.svg?style=for-the-badge
-[forks-url]: https://github.com/chicacode/teddies-vs-monsters-frontend/network/members
-[stars-shield]: https://img.shields.io/github/stars/chicacode/teddies-vs-monsters-frontend.svg?style=for-the-badge
-[stars-url]: https://github.com/chicacode/teddies-vs-monsters-frontend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/chicacode/teddies-vs-monsters-frontend.svg?style=for-the-badge
-[issues-url]: https://github.com/chicacode/teddies-vs-monsters-frontend/issues
-[license-shield]: https://img.shields.io/github/license/chicacode/teddies-vs-monsters-frontend.svg?style=for-the-badge
-[license-url]: https://github.com/chicacode/teddies-vs-monsters-frontend/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TeddiesvsMonsters/TeddiesVsMonsters.svg?style=for-the-badge
+[contributors-url]: https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TeddiesvsMonsters/TeddiesVsMonsters.svg?style=for-the-badge
+[forks-url]: https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/network/members
+[stars-shield]: https://img.shields.io/github/stars/TeddiesvsMonsters/TeddiesVsMonsters.svg?style=for-the-badge
+[stars-url]: https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TeddiesvsMonsters/TeddiesVsMonsters.svg?style=for-the-badge
+[issues-url]: https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/issues
+[license-shield]: https://img.shields.io/github/license/TeddiesvsMonsters/TeddiesVsMonsters.svg?style=for-the-badge
+[license-url]: https://github.com/TeddiesvsMonsters/TeddiesVsMonsters/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: assets/images/hero.png
