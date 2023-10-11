@@ -1,0 +1,28 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap'); */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Idr-kaet';
+    font-weight: 500;
+    src: url(../assets/fonts/ldr_kaet.ttf);
+  }
+  @font-face {
+    font-family: 'Poppins';
+    src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+  }
+}
+
+.font-face-title {
+  font-family: "Idr-kaet";
+}
+
+
+@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 640px) { */
+.kickstarter-bgRight {
+    transform: rotateY(0deg) rotateX(180deg) rotateZ(-45deg);
+  }
+}

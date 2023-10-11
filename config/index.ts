@@ -1,0 +1,5 @@
+export const config = {
+  MAIN_URL: process.env.MAIN_URL,
+  SHOPIFY_API_URL: process.env.NEXT_PUBLIC_SHOPIFY_API_URL,
+  SHOPIFY_ACCESS_TOKEN: process.env.NEXT_PUBLIC_SHOPIFY_ACCESS_TOKEN,
+}
